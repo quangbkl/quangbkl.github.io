@@ -96,7 +96,7 @@ p {
     }
     .navbar-default .navbar-nav>li>a {
         color: #B5B5B5;
-        font-family: 'Raleway', sans-serif;
+        font-family: 'Consolas', sans-serif;
     }
     .navbar-default .navbar-nav>li>a:hover {
         color: #f39c12;
